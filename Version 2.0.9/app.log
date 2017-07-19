@@ -1,0 +1,207 @@
+2017-07-18 20:59:25,020 DEBUG STREAM b'IHDR' 16 13
+2017-07-18 20:59:25,020 DEBUG STREAM b'sBIT' 41 4
+2017-07-18 20:59:25,020 DEBUG b'sBIT' 41 4 (unknown)
+2017-07-18 20:59:25,020 DEBUG STREAM b'pHYs' 57 9
+2017-07-18 20:59:25,020 DEBUG STREAM b'tEXt' 78 25
+2017-07-18 20:59:25,020 DEBUG STREAM b'IDAT' 115 8192
+2017-07-18 20:59:25,045 DEBUG STREAM b'IHDR' 16 13
+2017-07-18 20:59:25,045 DEBUG STREAM b'IDAT' 41 39623
+2017-07-18 21:00:55,375 INFO Num genes: 20
+2017-07-18 21:00:55,375 INFO Total queries: 60
+2017-07-18 21:00:55,375 INFO 9
+2017-07-18 21:00:55,375 INFO #1
+2017-07-18 21:00:58,674 INFO (TMEM106A) OR (transmembrane protein 106A)
+2017-07-18 21:01:03,076 INFO ((TMEM106A) OR (transmembrane protein 106A)) AND multiple sclerosis
+2017-07-18 21:01:03,609 INFO ['32', '0']
+2017-07-18 21:01:03,609 INFO #2
+2017-07-18 21:01:05,861 INFO (MEGF11) OR (multiple EGF like domains 11)
+2017-07-18 21:01:08,309 INFO ((MEGF11) OR (multiple EGF like domains 11)) AND multiple sclerosis
+2017-07-18 21:01:08,870 INFO ['18', '0']
+2017-07-18 21:01:08,886 INFO #3
+2017-07-18 21:01:11,480 INFO (LACTB) OR (lactamase beta)
+2017-07-18 21:01:22,726 INFO ((LACTB) OR (lactamase beta)) AND multiple sclerosis
+2017-07-18 21:01:23,242 INFO ['22343', '1']
+2017-07-18 21:01:23,242 INFO #4
+2017-07-18 21:01:24,177 INFO (IQCD) OR (IQ motif containing D)
+2017-07-18 21:01:25,075 INFO ((IQCD) OR (IQ motif containing D)) AND multiple sclerosis
+2017-07-18 21:01:25,612 INFO ['41', '0']
+2017-07-18 21:01:25,612 INFO #5
+2017-07-18 21:01:26,609 INFO (KNL1) OR (kinetochore scaffold 1)
+2017-07-18 21:01:27,540 INFO ((KNL1) OR (kinetochore scaffold 1)) AND multiple sclerosis
+2017-07-18 21:01:28,068 INFO ['115', '0']
+2017-07-18 21:01:28,069 INFO #6
+2017-07-18 21:01:29,058 INFO (RXFP1) OR (relaxin/insulin like family peptide receptor 1)
+2017-07-18 21:01:30,291 INFO ((RXFP1) OR (relaxin/insulin like family peptide receptor 1)) AND multiple sclerosis
+2017-07-18 21:01:30,823 INFO ['300', '0']
+2017-07-18 21:01:30,823 INFO #7
+2017-07-18 21:01:33,363 INFO (CIB3) OR (calcium and integrin binding family member 3)
+2017-07-18 21:01:34,502 INFO ((CIB3) OR (calcium and integrin binding family member 3)) AND multiple sclerosis
+2017-07-18 21:01:35,044 INFO ['93', '0']
+2017-07-18 21:01:35,045 INFO #8
+2017-07-18 21:01:36,130 INFO (PITPNM2) OR (phosphatidylinositol transfer protein membrane associated 2)
+2017-07-18 21:01:37,272 INFO ((PITPNM2) OR (phosphatidylinositol transfer protein membrane associated 2)) AND multiple sclerosis
+2017-07-18 21:01:37,805 INFO ['213', '0']
+2017-07-18 21:01:37,806 INFO #9
+2017-07-18 21:01:39,315 INFO (ATRIP) OR (TREX1) OR (ATR interacting protein///three prime repair exonuclease 1)
+2017-07-18 21:01:40,261 INFO ((ATRIP) OR (TREX1) OR (ATR interacting protein///three prime repair exonuclease 1)) AND multiple sclerosis
+2017-07-18 21:01:40,781 INFO ['325', '2']
+2017-07-18 21:01:40,782 INFO #10
+2017-07-18 21:01:42,587 INFO (C20orf166-AS1) OR (C20orf166 antisense RNA 1)
+2017-07-18 21:01:43,505 INFO ((C20orf166-AS1) OR (C20orf166 antisense RNA 1)) AND multiple sclerosis
+2017-07-18 21:01:44,020 INFO ['1', '0']
+2017-07-18 21:01:44,020 INFO #11
+2017-07-18 21:01:45,089 INFO (EPHA10) OR (EPH receptor A10)
+2017-07-18 21:01:45,873 INFO ((EPHA10) OR (EPH receptor A10)) AND multiple sclerosis
+2017-07-18 21:01:46,384 INFO ['23', '0']
+2017-07-18 21:01:46,384 INFO #12
+2017-07-18 21:01:47,470 INFO (C11orf72) OR (chromosome 11 open reading frame 72)
+2017-07-18 21:01:48,335 INFO ((C11orf72) OR (chromosome 11 open reading frame 72)) AND multiple sclerosis
+2017-07-18 21:01:48,854 INFO ['5', '0']
+2017-07-18 21:01:48,855 INFO #13
+2017-07-18 21:01:52,343 INFO (TMEM145) OR (transmembrane protein 145)
+2017-07-18 21:01:53,665 INFO ((TMEM145) OR (transmembrane protein 145)) AND multiple sclerosis
+2017-07-18 21:01:54,191 INFO ['9605', '41']
+2017-07-18 21:01:54,192 INFO #14
+2017-07-18 21:01:55,114 INFO (METTL6) OR (methyltransferase like 6)
+2017-07-18 21:01:56,184 INFO ((METTL6) OR (methyltransferase like 6)) AND multiple sclerosis
+2017-07-18 21:01:56,710 INFO ['735', '1']
+2017-07-18 21:01:56,710 INFO #15
+2017-07-18 21:01:57,765 INFO (KLHL32) OR (kelch like family member 32)
+2017-07-18 21:01:58,749 INFO ((KLHL32) OR (kelch like family member 32)) AND multiple sclerosis
+2017-07-18 21:01:59,266 INFO ['5', '0']
+2017-07-18 21:01:59,266 INFO #16
+2017-07-18 21:02:01,151 INFO (SPATA32) OR (spermatogenesis associated 32)
+2017-07-18 21:02:04,093 INFO ((SPATA32) OR (spermatogenesis associated 32)) AND multiple sclerosis
+2017-07-18 21:02:04,631 INFO ['167', '0']
+2017-07-18 21:02:04,631 INFO #17
+2017-07-18 21:02:07,380 INFO (TMEM237) OR (transmembrane protein 237)
+2017-07-18 21:02:08,517 INFO ((TMEM237) OR (transmembrane protein 237)) AND multiple sclerosis
+2017-07-18 21:02:09,050 INFO ['4381', '34']
+2017-07-18 21:02:09,050 INFO #18
+2017-07-18 21:02:09,887 INFO (SNX21) OR (sorting nexin family member 21)
+2017-07-18 21:02:29,190 INFO <urlopen error [WinError 10054] An existing connection was forcibly closed by the remote host>
+2017-07-18 21:02:45,600 INFO ((SNX21) OR (sorting nexin family member 21)) AND multiple sclerosis
+2017-07-18 21:02:46,164 INFO ['8', '0']
+2017-07-18 21:02:46,164 INFO #19
+2017-07-18 21:02:57,493 INFO (MIR6800) OR (MED25) OR (microRNA 6800///mediator complex subunit 25)
+2017-07-18 21:03:06,418 INFO ((MIR6800) OR (MED25) OR (microRNA 6800///mediator complex subunit 25)) AND multiple sclerosis
+2017-07-18 21:03:06,969 INFO ['78', '0']
+2017-07-18 21:03:06,969 INFO #20
+2017-07-18 21:03:16,490 INFO (MIR31HG) OR (MIR31 host gene)
+2017-07-18 21:03:33,833 INFO ((MIR31HG) OR (MIR31 host gene)) AND multiple sclerosis
+2017-07-18 21:03:34,356 INFO ['14', '0']
+2017-07-18 21:03:34,366 INFO Getting descriptions...
+2017-07-18 21:03:34,519 INFO Starting new HTTP connection (1): mygene.info
+2017-07-18 21:03:45,811 DEBUG "GET /v2/query?species=human&q=symbol%3AC20orf166-AS1 HTTP/1.1" 200 283
+2017-07-18 21:03:45,813 INFO Error with query: 'entrezgene'
+2017-07-18 21:03:45,816 INFO Starting new HTTP connection (1): mygene.info
+2017-07-18 21:03:53,483 DEBUG "GET /v2/query?species=human&q=symbol%3AC11orf72 HTTP/1.1" 200 187
+2017-07-18 21:03:53,487 INFO Starting new HTTP connection (1): www.ncbi.nlm.nih.gov
+2017-07-18 21:04:07,007 DEBUG "GET /gene/100505621?Mozilla/5.0%20(Windows;%20U;%20Windows%20NT%205.1;%20it;%20rv:1.8.1.11)%20Gecko/20071127%20Firefox/2.0.0.11 HTTP/1.1" 301 359
+2017-07-18 21:04:07,015 INFO Starting new HTTPS connection (1): www.ncbi.nlm.nih.gov
+2017-07-18 21:04:30,450 DEBUG "GET /gene/100505621?Mozilla/5.0%20(Windows;%20U;%20Windows%20NT%205.1;%20it;%20rv:1.8.1.11)%20Gecko/20071127%20Firefox/2.0.0.11 HTTP/1.1" 200 None
+2017-07-18 21:05:54,968 INFO Starting new HTTP connection (1): mygene.info
+2017-07-18 21:05:55,708 DEBUG "GET /v2/query?species=human&q=symbol%3AKLHL32 HTTP/1.1" 200 171
+2017-07-18 21:05:55,711 INFO Starting new HTTP connection (1): www.ncbi.nlm.nih.gov
+2017-07-18 21:05:56,043 DEBUG "GET /gene/114792?Mozilla/5.0%20(Windows;%20U;%20Windows%20NT%205.1;%20it;%20rv:1.8.1.11)%20Gecko/20071127%20Firefox/2.0.0.11 HTTP/1.1" 301 356
+2017-07-18 21:05:56,049 INFO Starting new HTTPS connection (1): www.ncbi.nlm.nih.gov
+2017-07-18 21:05:59,157 DEBUG "GET /gene/114792?Mozilla/5.0%20(Windows;%20U;%20Windows%20NT%205.1;%20it;%20rv:1.8.1.11)%20Gecko/20071127%20Firefox/2.0.0.11 HTTP/1.1" 200 None
+2017-07-18 21:05:59,284 INFO Starting new HTTP connection (1): mygene.info
+2017-07-18 21:05:59,545 DEBUG "GET /v2/query?species=human&q=symbol%3ASNX21 HTTP/1.1" 200 171
+2017-07-18 21:05:59,552 INFO Starting new HTTP connection (1): www.ncbi.nlm.nih.gov
+2017-07-18 21:05:59,643 DEBUG "GET /gene/90203?Mozilla/5.0%20(Windows;%20U;%20Windows%20NT%205.1;%20it;%20rv:1.8.1.11)%20Gecko/20071127%20Firefox/2.0.0.11 HTTP/1.1" 301 355
+2017-07-18 21:05:59,649 INFO Starting new HTTPS connection (1): www.ncbi.nlm.nih.gov
+2017-07-18 21:06:03,606 DEBUG "GET /gene/90203?Mozilla/5.0%20(Windows;%20U;%20Windows%20NT%205.1;%20it;%20rv:1.8.1.11)%20Gecko/20071127%20Firefox/2.0.0.11 HTTP/1.1" 200 None
+2017-07-18 21:06:04,167 INFO Starting new HTTP connection (1): mygene.info
+2017-07-18 21:06:04,655 DEBUG "GET /v2/query?species=human&q=symbol%3AMIR31HG HTTP/1.1" 200 251
+2017-07-18 21:06:04,662 INFO Starting new HTTP connection (1): www.ncbi.nlm.nih.gov
+2017-07-18 21:06:05,215 DEBUG "GET /gene/554202?Mozilla/5.0%20(Windows;%20U;%20Windows%20NT%205.1;%20it;%20rv:1.8.1.11)%20Gecko/20071127%20Firefox/2.0.0.11 HTTP/1.1" 301 356
+2017-07-18 21:06:05,221 INFO Starting new HTTPS connection (1): www.ncbi.nlm.nih.gov
+2017-07-18 21:06:09,261 DEBUG "GET /gene/554202?Mozilla/5.0%20(Windows;%20U;%20Windows%20NT%205.1;%20it;%20rv:1.8.1.11)%20Gecko/20071127%20Firefox/2.0.0.11 HTTP/1.1" 200 None
+2017-07-18 21:06:09,470 INFO Starting new HTTP connection (1): mygene.info
+2017-07-18 21:06:09,720 DEBUG "GET /v2/query?species=human&q=symbol%3AMEGF11 HTTP/1.1" 200 170
+2017-07-18 21:06:09,728 INFO Starting new HTTP connection (1): www.ncbi.nlm.nih.gov
+2017-07-18 21:06:09,826 DEBUG "GET /gene/84465?Mozilla/5.0%20(Windows;%20U;%20Windows%20NT%205.1;%20it;%20rv:1.8.1.11)%20Gecko/20071127%20Firefox/2.0.0.11 HTTP/1.1" 301 355
+2017-07-18 21:06:09,832 INFO Starting new HTTPS connection (1): www.ncbi.nlm.nih.gov
+2017-07-18 21:06:12,067 DEBUG "GET /gene/84465?Mozilla/5.0%20(Windows;%20U;%20Windows%20NT%205.1;%20it;%20rv:1.8.1.11)%20Gecko/20071127%20Firefox/2.0.0.11 HTTP/1.1" 200 None
+2017-07-18 21:06:12,173 INFO Starting new HTTP connection (1): mygene.info
+2017-07-18 21:06:12,394 DEBUG "GET /v2/query?species=human&q=symbol%3AEPHA10 HTTP/1.1" 200 160
+2017-07-18 21:06:12,402 INFO Starting new HTTP connection (1): www.ncbi.nlm.nih.gov
+2017-07-18 21:06:12,525 DEBUG "GET /gene/284656?Mozilla/5.0%20(Windows;%20U;%20Windows%20NT%205.1;%20it;%20rv:1.8.1.11)%20Gecko/20071127%20Firefox/2.0.0.11 HTTP/1.1" 301 356
+2017-07-18 21:06:12,532 INFO Starting new HTTPS connection (1): www.ncbi.nlm.nih.gov
+2017-07-18 21:06:16,801 DEBUG "GET /gene/284656?Mozilla/5.0%20(Windows;%20U;%20Windows%20NT%205.1;%20it;%20rv:1.8.1.11)%20Gecko/20071127%20Firefox/2.0.0.11 HTTP/1.1" 200 None
+2017-07-18 21:06:17,162 INFO Starting new HTTP connection (1): mygene.info
+2017-07-18 21:06:17,432 DEBUG "GET /v2/query?species=human&q=symbol%3ATMEM106A HTTP/1.1" 200 172
+2017-07-18 21:06:17,439 INFO Starting new HTTP connection (1): www.ncbi.nlm.nih.gov
+2017-07-18 21:06:17,728 DEBUG "GET /gene/113277?Mozilla/5.0%20(Windows;%20U;%20Windows%20NT%205.1;%20it;%20rv:1.8.1.11)%20Gecko/20071127%20Firefox/2.0.0.11 HTTP/1.1" 301 356
+2017-07-18 21:06:17,734 INFO Starting new HTTPS connection (1): www.ncbi.nlm.nih.gov
+2017-07-18 21:06:21,150 DEBUG "GET /gene/113277?Mozilla/5.0%20(Windows;%20U;%20Windows%20NT%205.1;%20it;%20rv:1.8.1.11)%20Gecko/20071127%20Firefox/2.0.0.11 HTTP/1.1" 200 None
+2017-07-18 21:06:21,257 INFO Starting new HTTP connection (1): mygene.info
+2017-07-18 21:06:21,459 DEBUG "GET /v2/query?species=human&q=symbol%3AIQCD HTTP/1.1" 200 163
+2017-07-18 21:06:21,466 INFO Starting new HTTP connection (1): www.ncbi.nlm.nih.gov
+2017-07-18 21:06:21,526 DEBUG "GET /gene/115811?Mozilla/5.0%20(Windows;%20U;%20Windows%20NT%205.1;%20it;%20rv:1.8.1.11)%20Gecko/20071127%20Firefox/2.0.0.11 HTTP/1.1" 301 356
+2017-07-18 21:06:21,532 INFO Starting new HTTPS connection (1): www.ncbi.nlm.nih.gov
+2017-07-18 21:06:24,550 DEBUG "GET /gene/115811?Mozilla/5.0%20(Windows;%20U;%20Windows%20NT%205.1;%20it;%20rv:1.8.1.11)%20Gecko/20071127%20Firefox/2.0.0.11 HTTP/1.1" 200 None
+2017-07-18 21:06:24,657 INFO Starting new HTTP connection (1): mygene.info
+2017-07-18 21:06:25,410 DEBUG "GET /v2/query?species=human&q=symbol%3AMIR6800%2F%2F%2FMED25 HTTP/1.1" 200 771
+2017-07-18 21:06:25,413 INFO Error with query: 'hits'
+2017-07-18 21:06:25,419 INFO Starting new HTTP connection (1): mygene.info
+2017-07-18 21:06:26,561 DEBUG "GET /v2/query?species=human&q=symbol%3ACIB3 HTTP/1.1" 200 187
+2017-07-18 21:06:26,568 INFO Starting new HTTP connection (1): www.ncbi.nlm.nih.gov
+2017-07-18 21:06:26,718 DEBUG "GET /gene/117286?Mozilla/5.0%20(Windows;%20U;%20Windows%20NT%205.1;%20it;%20rv:1.8.1.11)%20Gecko/20071127%20Firefox/2.0.0.11 HTTP/1.1" 301 356
+2017-07-18 21:06:26,724 INFO Starting new HTTPS connection (1): www.ncbi.nlm.nih.gov
+2017-07-18 21:06:29,834 DEBUG "GET /gene/117286?Mozilla/5.0%20(Windows;%20U;%20Windows%20NT%205.1;%20it;%20rv:1.8.1.11)%20Gecko/20071127%20Firefox/2.0.0.11 HTTP/1.1" 200 None
+2017-07-18 21:06:29,904 INFO Starting new HTTP connection (1): mygene.info
+2017-07-18 21:06:30,129 DEBUG "GET /v2/query?species=human&q=symbol%3AKNL1 HTTP/1.1" 200 163
+2017-07-18 21:06:30,136 INFO Starting new HTTP connection (1): www.ncbi.nlm.nih.gov
+2017-07-18 21:06:30,307 DEBUG "GET /gene/57082?Mozilla/5.0%20(Windows;%20U;%20Windows%20NT%205.1;%20it;%20rv:1.8.1.11)%20Gecko/20071127%20Firefox/2.0.0.11 HTTP/1.1" 301 355
+2017-07-18 21:06:30,313 INFO Starting new HTTPS connection (1): www.ncbi.nlm.nih.gov
+2017-07-18 21:06:33,452 DEBUG "GET /gene/57082?Mozilla/5.0%20(Windows;%20U;%20Windows%20NT%205.1;%20it;%20rv:1.8.1.11)%20Gecko/20071127%20Firefox/2.0.0.11 HTTP/1.1" 200 None
+2017-07-18 21:06:33,530 INFO Starting new HTTP connection (1): mygene.info
+2017-07-18 21:06:33,751 DEBUG "GET /v2/query?species=human&q=symbol%3ASPATA32 HTTP/1.1" 200 174
+2017-07-18 21:06:33,759 INFO Starting new HTTP connection (1): www.ncbi.nlm.nih.gov
+2017-07-18 21:06:33,832 DEBUG "GET /gene/124783?Mozilla/5.0%20(Windows;%20U;%20Windows%20NT%205.1;%20it;%20rv:1.8.1.11)%20Gecko/20071127%20Firefox/2.0.0.11 HTTP/1.1" 301 356
+2017-07-18 21:06:33,838 INFO Starting new HTTPS connection (1): www.ncbi.nlm.nih.gov
+2017-07-18 21:06:36,138 DEBUG "GET /gene/124783?Mozilla/5.0%20(Windows;%20U;%20Windows%20NT%205.1;%20it;%20rv:1.8.1.11)%20Gecko/20071127%20Firefox/2.0.0.11 HTTP/1.1" 200 None
+2017-07-18 21:06:36,228 INFO Starting new HTTP connection (1): mygene.info
+2017-07-18 21:06:36,457 DEBUG "GET /v2/query?species=human&q=symbol%3APITPNM2 HTTP/1.1" 200 203
+2017-07-18 21:06:36,464 INFO Starting new HTTP connection (1): www.ncbi.nlm.nih.gov
+2017-07-18 21:06:36,524 DEBUG "GET /gene/57605?Mozilla/5.0%20(Windows;%20U;%20Windows%20NT%205.1;%20it;%20rv:1.8.1.11)%20Gecko/20071127%20Firefox/2.0.0.11 HTTP/1.1" 301 355
+2017-07-18 21:06:36,530 INFO Starting new HTTPS connection (1): www.ncbi.nlm.nih.gov
+2017-07-18 21:06:39,033 DEBUG "GET /gene/57605?Mozilla/5.0%20(Windows;%20U;%20Windows%20NT%205.1;%20it;%20rv:1.8.1.11)%20Gecko/20071127%20Firefox/2.0.0.11 HTTP/1.1" 200 None
+2017-07-18 21:06:39,113 INFO Starting new HTTP connection (1): mygene.info
+2017-07-18 21:06:39,551 DEBUG "GET /v2/query?species=human&q=symbol%3ARXFP1 HTTP/1.1" 200 187
+2017-07-18 21:06:39,558 INFO Starting new HTTP connection (1): www.ncbi.nlm.nih.gov
+2017-07-18 21:06:39,633 DEBUG "GET /gene/59350?Mozilla/5.0%20(Windows;%20U;%20Windows%20NT%205.1;%20it;%20rv:1.8.1.11)%20Gecko/20071127%20Firefox/2.0.0.11 HTTP/1.1" 301 355
+2017-07-18 21:06:39,639 INFO Starting new HTTPS connection (1): www.ncbi.nlm.nih.gov
+2017-07-18 21:06:42,167 DEBUG "GET /gene/59350?Mozilla/5.0%20(Windows;%20U;%20Windows%20NT%205.1;%20it;%20rv:1.8.1.11)%20Gecko/20071127%20Firefox/2.0.0.11 HTTP/1.1" 200 None
+2017-07-18 21:06:42,690 INFO Starting new HTTP connection (1): mygene.info
+2017-07-18 21:06:42,910 DEBUG "GET /v2/query?species=human&q=symbol%3AATRIP%2F%2F%2FTREX1 HTTP/1.1" 200 773
+2017-07-18 21:06:42,913 INFO Error with query: 'hits'
+2017-07-18 21:06:42,919 INFO Starting new HTTP connection (1): mygene.info
+2017-07-18 21:06:43,222 DEBUG "GET /v2/query?species=human&q=symbol%3AMETTL6 HTTP/1.1" 200 168
+2017-07-18 21:06:43,230 INFO Starting new HTTP connection (1): www.ncbi.nlm.nih.gov
+2017-07-18 21:06:43,295 DEBUG "GET /gene/131965?Mozilla/5.0%20(Windows;%20U;%20Windows%20NT%205.1;%20it;%20rv:1.8.1.11)%20Gecko/20071127%20Firefox/2.0.0.11 HTTP/1.1" 301 356
+2017-07-18 21:06:43,302 INFO Starting new HTTPS connection (1): www.ncbi.nlm.nih.gov
+2017-07-18 21:06:45,637 DEBUG "GET /gene/131965?Mozilla/5.0%20(Windows;%20U;%20Windows%20NT%205.1;%20it;%20rv:1.8.1.11)%20Gecko/20071127%20Firefox/2.0.0.11 HTTP/1.1" 200 None
+2017-07-18 21:06:45,996 INFO Starting new HTTP connection (1): mygene.info
+2017-07-18 21:06:46,369 DEBUG "GET /v2/query?species=human&q=symbol%3ATMEM237 HTTP/1.1" 200 168
+2017-07-18 21:06:46,376 INFO Starting new HTTP connection (1): www.ncbi.nlm.nih.gov
+2017-07-18 21:06:46,464 DEBUG "GET /gene/65062?Mozilla/5.0%20(Windows;%20U;%20Windows%20NT%205.1;%20it;%20rv:1.8.1.11)%20Gecko/20071127%20Firefox/2.0.0.11 HTTP/1.1" 301 355
+2017-07-18 21:06:46,470 INFO Starting new HTTPS connection (1): www.ncbi.nlm.nih.gov
+2017-07-18 21:06:49,349 DEBUG "GET /gene/65062?Mozilla/5.0%20(Windows;%20U;%20Windows%20NT%205.1;%20it;%20rv:1.8.1.11)%20Gecko/20071127%20Firefox/2.0.0.11 HTTP/1.1" 200 None
+2017-07-18 21:06:49,456 INFO Starting new HTTP connection (1): mygene.info
+2017-07-18 21:06:49,682 DEBUG "GET /v2/query?species=human&q=symbol%3ATMEM145 HTTP/1.1" 200 170
+2017-07-18 21:06:49,689 INFO Starting new HTTP connection (1): www.ncbi.nlm.nih.gov
+2017-07-18 21:06:49,812 DEBUG "GET /gene/284339?Mozilla/5.0%20(Windows;%20U;%20Windows%20NT%205.1;%20it;%20rv:1.8.1.11)%20Gecko/20071127%20Firefox/2.0.0.11 HTTP/1.1" 301 356
+2017-07-18 21:06:49,818 INFO Starting new HTTPS connection (1): www.ncbi.nlm.nih.gov
+2017-07-18 21:06:52,973 DEBUG "GET /gene/284339?Mozilla/5.0%20(Windows;%20U;%20Windows%20NT%205.1;%20it;%20rv:1.8.1.11)%20Gecko/20071127%20Firefox/2.0.0.11 HTTP/1.1" 200 None
+2017-07-18 21:06:53,055 INFO Starting new HTTP connection (1): mygene.info
+2017-07-18 21:06:53,311 DEBUG "GET /v2/query?species=human&q=symbol%3ALACTB HTTP/1.1" 200 157
+2017-07-18 21:06:53,319 INFO Starting new HTTP connection (1): www.ncbi.nlm.nih.gov
+2017-07-18 21:06:53,396 DEBUG "GET /gene/114294?Mozilla/5.0%20(Windows;%20U;%20Windows%20NT%205.1;%20it;%20rv:1.8.1.11)%20Gecko/20071127%20Firefox/2.0.0.11 HTTP/1.1" 301 356
+2017-07-18 21:06:53,402 INFO Starting new HTTPS connection (1): www.ncbi.nlm.nih.gov
+2017-07-18 21:06:56,134 DEBUG "GET /gene/114294?Mozilla/5.0%20(Windows;%20U;%20Windows%20NT%205.1;%20it;%20rv:1.8.1.11)%20Gecko/20071127%20Firefox/2.0.0.11 HTTP/1.1" 200 None
+2017-07-18 21:06:56,606 INFO Done! Total time: 6 min 1 sec 
+2017-07-18 21:31:31,973 DEBUG STREAM b'IHDR' 16 13
+2017-07-18 21:31:31,973 DEBUG STREAM b'IDAT' 41 52110
